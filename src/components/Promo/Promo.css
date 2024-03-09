@@ -21,13 +21,14 @@
   width: 100%;
   max-width: 722px;
   object-fit: cover;
+  display: none;
 }
 
 @media (min-width: 768px) and (max-width: 992px) {
   .promo {
     gap: 140px;
     justify-content: center;
-    padding: 300px 0 70px;
+    padding: 50px 0 70px;
   }
 
   .promo__title {
@@ -47,7 +48,7 @@
     max-width: 100%;
     gap: 60px;
     justify-content: center;
-    padding: 183px 0 40px;
+    padding: 50px 0 40px;
     overflow: hidden;
   }
 

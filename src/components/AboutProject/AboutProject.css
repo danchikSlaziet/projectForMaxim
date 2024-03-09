@@ -1,6 +1,7 @@
 /*ABOUT ===============*/
 .about {
   padding: 110px 0;
+  display: none;
 }
 
 .about__text {

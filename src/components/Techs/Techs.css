@@ -1,6 +1,7 @@
 /*TECH ================*/
 .tech {
   padding: 100px 0;
+  display: none;
 }
 
 .tech__text {

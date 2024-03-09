@@ -1,6 +1,7 @@
 /*STUDENT =============*/
 .student {
   padding: 110px 0 105px;
+  display: none;
 }
 
 .student__about {
